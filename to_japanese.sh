@@ -1,4 +1,4 @@
-array=("Applications" "Downloads" "Pictures" "Public" "Movies" "Music" "Desktop")
+array=(Downloads" "Pictures" "Public" "Movies" "Music" "Desktop")
 
 for i in "${array[@]}"
 do
